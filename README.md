@@ -1,2 +1,2 @@
-#Bloc Jams
-##Functional music app built using jQuery.
+# Bloc Jams
+## Functional music app built using jQuery.
